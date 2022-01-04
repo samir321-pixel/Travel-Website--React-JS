@@ -1,7 +1,7 @@
 import React from 'react'
 import CardItem from './CardItem'
 import './Cards.css'
-function Cards () {
+function Cards() {
     return (
         <div className='cards'>
             <h1>
@@ -11,10 +11,37 @@ function Cards () {
                 <div className="cards__wrapper">
                     <ul className='cards__items'>
                         <CardItem
-                        src='images/img-9.jpg'
-                        text="Explore the hidden waterfall depp inside the Amazon Jungle"
-                        lable="Adventure"
-                        path='/services'
+                            src='images/img-9.jpg'
+                            text="Explore the hidden waterfall depp inside the Amazon Jungle"
+                            label="Adventure"
+                            path='/services'
+                        />
+                        <CardItem
+                            src='images/img-2.jpg'
+                            text="Travel through the Island of Bali in A Private Cruise"
+                            label="Luxury"
+                            path='/services'
+                        />
+                    </ul>
+
+                    <ul className='cards__items'>
+                        <CardItem
+                            src='images/img-3.jpg'
+                            text="Set Sail in the Atlantic Ocean visiting Uncharted Waters"
+                            label="Mystery"
+                            path='/services'
+                        />
+                        <CardItem
+                            src='images/img-4.jpg'
+                            text="Explore the Football on Top of the Himalayan"
+                            label="Adventure"
+                            path='/products'
+                        />
+                                                <CardItem
+                            src='images/img-8.jpg'
+                            text="Ride through the Sahara Desert on a guided camel tour"
+                            label="Adrenaline"
+                            path='/sign-up'
                         />
                     </ul>
                 </div>
