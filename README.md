@@ -15,7 +15,7 @@
 First, clone the repository to your local machine:
 
 ```bash
-git clone  https://github.com/samir321-pixel/Django_Elastic_Search.git
+git clone  https://github.com/samir321-pixel/Travel-Website--React-JS.git
 ```
 
 # Install the Node Package:
