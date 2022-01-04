@@ -32,6 +32,11 @@ npm start
 The project will be available at **http://localhost:3000/**.
 
 # Screenshots
+![image](https://user-images.githubusercontent.com/65664404/148080249-3803b0eb-f2db-4645-8cb3-f2af84c518c1.png)
+![image](https://user-images.githubusercontent.com/65664404/148080296-c8cb10f3-557a-43aa-bd6d-2508a3ecb4fc.png)
+![image](https://user-images.githubusercontent.com/65664404/148080374-e52ff9b2-5db3-4886-a3cd-cc70da2e61b1.png)
+![image](https://user-images.githubusercontent.com/65664404/148080436-aed01570-58dd-4b94-9a36-b4c383760229.png)
+
 
 
 ## 🌏 Browser Support
