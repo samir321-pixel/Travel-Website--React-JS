@@ -36,8 +36,9 @@ The project will be available at **http://localhost:3000/**.
 ![image](https://user-images.githubusercontent.com/65664404/148080296-c8cb10f3-557a-43aa-bd6d-2508a3ecb4fc.png)
 ![image](https://user-images.githubusercontent.com/65664404/148080374-e52ff9b2-5db3-4886-a3cd-cc70da2e61b1.png)
 ![image](https://user-images.githubusercontent.com/65664404/148080436-aed01570-58dd-4b94-9a36-b4c383760229.png)
-
-
+![image](https://user-images.githubusercontent.com/65664404/148084756-5dc58baf-f760-40f5-b68f-c73bf8714f18.png)
+![image](https://user-images.githubusercontent.com/65664404/148084800-f14be976-756e-499e-9bb5-21d42e25018e.png)
+![image](https://user-images.githubusercontent.com/65664404/148084852-0a903d72-3fc9-4a2d-a62f-195248003ea6.png)
 
 ## 🌏 Browser Support
 
