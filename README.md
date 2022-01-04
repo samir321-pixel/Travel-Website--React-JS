@@ -61,3 +61,18 @@ The project will be available at **http://localhost:3000/**.
 <br><br>
 ## Project Admin
 [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/samir321-pixel)
+
+
+> **_Need help?_** 
+> **_Feel free to contact me @ [saitwalsamir@gmail.com](mailto:saitwalsamir@gmail.com?Subject=Library_Project)_**
+
+## Like This?? Star ⭐ this Repo.
+
+## 👮 **_For Full Version contact me @ [saitwalsamir@gmail.com](mailto:saitwalsamir@gmail.com?Subject=Library_Project)_** 👮
+
+> Made By Samir Saitwal with ❤️
+
+> Samir Saitwal &copy; 2021
+<br><br>
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/samir321-pixel)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/samir321-pixel)
