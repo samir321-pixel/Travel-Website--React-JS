@@ -68,7 +68,6 @@ The project will be available at **http://localhost:3000/**.
 
 ## Like This?? Star ⭐ this Repo.
 
-## 👮 **_For Full Version contact me @ [saitwalsamir@gmail.com](mailto:saitwalsamir@gmail.com?Subject=Library_Project)_** 👮
 
 > Made By Samir Saitwal with ❤️
 
